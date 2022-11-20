@@ -1,4 +1,4 @@
-# Linear_Acceleration_Motion
+# Acceleration_Motion_Linear_Model
 
 Suppose object A is traveling towards object B with a speed v. A and B are separated by a distance d. 
 If A is decelerating by a value of a , we want to determine if it will hit the object B. 
